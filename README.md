@@ -1,0 +1,1 @@
+Data and evaluation sheets for the presentation "Evaluating Russian Morphological Analyzers in Central Asian Area Studies: A Comparative Analysis Using Media Data from Turkmenistan" at CH140.
